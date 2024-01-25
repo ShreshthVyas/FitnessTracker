@@ -1,4 +1,4 @@
-# FitTrack
+# FitnessTracker
 A MERN-stack fitness tracker app.
 
 ## Table of Contents
@@ -26,7 +26,7 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-npm clone 
+npm clone https://github.com/ShreshthVyas/FitnessTracker.git
 ```
 
 ## Usage
